@@ -1,0 +1,10 @@
+Soil erosion is closely related to factors such as forest cover, soil health, intensity of impact on the soil and slope, and can be reflected in them.
+The lower accuracy of models based on multiplication is explained by the assumption of an equal independent relationship between factors and soil erosion.
+The suitability of a model depends on a number of factors, including data requirements and ease of use.
+Lack of data is usually the main drawback of model application.
+The method proposed in this study is based entirely on remote sensing methods and is relatively
+remote sensing methods and is relatively easy to use.
+The necessary data on each factor for the model can be obtained directly from remote sensing images.
+This advantage makes the model more applicable.
+It is intended to be used as a spatially explicit tool for identifying areas with potential soil erosion.
+Information on the identification of areas that are susceptible to soil erosion will be useful for geoanalytics, farming, and construction.
